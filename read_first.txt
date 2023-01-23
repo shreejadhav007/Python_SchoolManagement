@@ -1,0 +1,18 @@
+first you have to create a database with column named as 
+id   (as auto increment)
+name_db
+sur_db
+email_db
+branch_db
+course_db
+gender_db
+fee_db
+rfee_db
+userid
+
+All the required database is done in the programm only
+no need to add extra
+
+
+*** username  = 1
+***password = 1

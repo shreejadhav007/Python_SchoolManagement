@@ -1,0 +1,4 @@
+1.Check the version that u use of python is updated and also update pip 
+2. Give path to pip 
+3. install mysql.connector and pillow module in pip 
+4.run the programm
